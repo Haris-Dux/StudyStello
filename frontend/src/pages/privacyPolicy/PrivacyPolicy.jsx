@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
         <>
             <section className="bg-[#ebecf5]">
                 <div className="max-w-5xl px-4 sm:px-6 py-10 mx-auto min-h-screen">
-                    <h2 className='poppin text-3xl lg:text-4xl font-bold tracking-wide'>Privacy Policy - Study Stello</h2>
+                    <h2 className='poppin text-3xl lg:text-4xl font-bold tracking-wide'>Privacy Policy - Study Wello</h2>
 
                     <p className="mb-4 mt-3">StudyStello is committed to protecting the privacy of our users. This Privacy Policy describes how we collect, use, and disclose information we obtain from users of our website and services.</p>
 

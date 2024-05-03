@@ -17,7 +17,7 @@ const HomePage = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>
-          Study Stello: Academic Writing Services | Online Help with Money Back
+          Study Wello: Academic Writing Services | Online Help with Money Back
           Guarantee
         </title>
       </Helmet>

@@ -25,7 +25,7 @@ const Faq = () => {
                         </summary>
 
                         <p className="mt-4 px-4 leading-relaxed text-gray-700">
-                            Study Stello is the best homework help website for students looking for expert, customized, and affordable homework solutions. Their professional and on-time services ensure academic success and peace of mind.
+                            Study Wello is the best homework help website for students looking for expert, customized, and affordable homework solutions. Their professional and on-time services ensure academic success and peace of mind.
                         </p>
                     </details>
 
@@ -46,7 +46,7 @@ const Faq = () => {
                         </summary>
 
                         <p className="mt-4 px-4 leading-relaxed text-gray-700">
-                            Study Stello provides free consultations and sample solutions to help students understand complex homework problems. Their expert tutors also offer affordable and customized solutions tailored to unique needs.
+                            Study Wello provides free consultations and sample solutions to help students understand complex homework problems. Their expert tutors also offer affordable and customized solutions tailored to unique needs.
                         </p>
                     </details>
 
@@ -67,13 +67,13 @@ const Faq = () => {
                         </summary>
 
                         <p className="mt-4 px-4 leading-relaxed text-gray-700">
-                            Study Stello offers expert and customized homework solutions for students in need. With a team of professional tutors and on-time services, students can find the answers they need to excel in their studies.
+                            Study Wello offers expert and customized homework solutions for students in need. With a team of professional tutors and on-time services, students can find the answers they need to excel in their studies.
                         </p>
                     </details>
 
                     <details className="group [&_summary::-webkit-details-marker]:hidden">
                         <summary className="flex cursor-pointer items-center justify-between gap-1.5 border border-[#1A73E8] rounded-lg bg-white p-4 text-gray-900">
-                            <h2 className="font-medium">Is Study Stello legit?</h2>
+                            <h2 className="font-medium">Is Study Wello legit?</h2>
 
                             <svg
                                 className="size-5 shrink-0 transition duration-300 group-open:-rotate-180 text-[#1A73E8]"
@@ -88,7 +88,7 @@ const Faq = () => {
                         </summary>
 
                         <p className="mt-4 px-4 leading-relaxed text-gray-700">
-                            Yes, Study Stello is a best place to do homework for affordable homework solution. With a team of expert tutors, customized solutions, and on-time services, they ensure academic success and student satisfaction.
+                            Yes, Study Wello is a best place to do homework for affordable homework solution. With a team of expert tutors, customized solutions, and on-time services, they ensure academic success and student satisfaction.
                         </p>
                     </details>
 
